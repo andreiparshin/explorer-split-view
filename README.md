@@ -4,6 +4,8 @@ A lightweight, native C++20 **Dual-Pane / Split-View** plugin for the built-in *
 
 Browse and manage **two folders side by side inside a single standard File Explorer window** (`Win+E`) — with native Windows 11 Dark/Light theme styling, full tab compatibility, drag-and-drop between panes, active-pane sidebar routing, and near-zero resource usage (`~2.6 MB` private RAM, `0.0%` idle CPU).
 
+![Explorer Split View — Dual-Pane Windows 11 File Explorer](docs/dual-pane-preview.png)
+
 ---
 
 ## Features
