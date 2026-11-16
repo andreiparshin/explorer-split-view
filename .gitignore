@@ -1,0 +1,18 @@
+# Build artifacts and intermediates
+build_obj/
+bin/
+*.obj
+*.pdb
+*.lib
+*.exp
+*.ilk
+*.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE / Editor folders
+.vs/
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+LIBRARY ExplorerSplitHook
+EXPORTS
+    CallWndProcHook
+    GetMsgProcHook
